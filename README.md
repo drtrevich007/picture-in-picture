@@ -1,7 +1,8 @@
 # PICTURE-IN-PICTURE 
 This project is a picture in picture demonstration 
 
-## TECHNOLOGY
-* HTML
-* JAVASCRIPT
-* CSS
+# technologies
+- [HTML5]
+- [JavaScript]
+- [CSS]
+
